@@ -44,7 +44,7 @@ To use the Animated Searchbar, include the following HTML structure in your proj
 Ensure you include the CSS file in your project for the animations and styling to work:
 
 ```html
-<link rel="stylesheet" href="path/to/animated-searchbar.css">
+<link rel="stylesheet" href="style.css">
 ```
 
 ## Demo
@@ -52,7 +52,7 @@ Here's a video demonstrating how the Animated Searchbar works:
 
 <div align="center">
   <video width="600" controls>
-    <source src="./AnimatedSearchBar.mp4" type="video/mp4">
+    <source src="./Demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
