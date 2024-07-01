@@ -1,3 +1,5 @@
+Here's the updated README with a video demonstrating how the Animated Searchbar works:
+
 # Animated Searchbar
 
 ## Table of Contents
@@ -5,6 +7,7 @@
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
+5. [Demo](#demo)
 6. [Contributing](#contributing)
 7. [License](#license)
 
@@ -33,11 +36,11 @@ To use the Animated Searchbar, include the following HTML structure in your proj
 
 ```html
 <div class="container">
-        <input type="text" placeholder="search...">
-        <div class="btn">
-            <i class="fa fa-search"></i>
-        </div>
+    <input type="text" placeholder="search...">
+    <div class="btn">
+        <i class="fa fa-search"></i>
     </div>
+</div>
 ```
 
 Ensure you include the CSS file in your project for the animations and styling to work:
@@ -45,6 +48,13 @@ Ensure you include the CSS file in your project for the animations and styling t
 ```html
 <link rel="stylesheet" href="path/to/animated-searchbar.css">
 ```
+
+## Demo
+Here's a video demonstrating how the Animated Searchbar works:
+
+[![Animated Searchbar Demo](AnimatedSearchBar.mp4)]
+
+*Click the image above to watch the demo video.*
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request on the [repository](https://github.com/EzraAriwomoi/animated-searchBar).
