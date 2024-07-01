@@ -48,7 +48,6 @@ Ensure you include the CSS file in your project for the animations and styling t
 ```
 
 ## Demo
-Here's a video demonstrating how the Animated Searchbar works:
 
 ![Demo](demo.gif)
 
