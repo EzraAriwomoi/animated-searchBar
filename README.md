@@ -50,12 +50,7 @@ Ensure you include the CSS file in your project for the animations and styling t
 ## Demo
 Here's a video demonstrating how the Animated Searchbar works:
 
-<div align="center">
-  <video width="600" controls>
-    <source src="./Demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+![Demo](demo.gif)
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request on the [repository](https://github.com/EzraAriwomoi/animated-searchBar).
