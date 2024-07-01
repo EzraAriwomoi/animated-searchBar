@@ -32,10 +32,12 @@ To include the Animated Searchbar in your project, follow these steps:
 To use the Animated Searchbar, include the following HTML structure in your project:
 
 ```html
-<div class="search-container">
-  <input type="text" class="search-input" placeholder="Search...">
-  <div class="search-icon"></div>
-</div>
+<div class="container">
+        <input type="text" placeholder="search...">
+        <div class="btn">
+            <i class="fa fa-search"></i>
+        </div>
+    </div>
 ```
 
 Ensure you include the CSS file in your project for the animations and styling to work:
