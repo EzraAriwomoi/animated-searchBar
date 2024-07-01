@@ -1,0 +1,25 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+.container{
+    position: absolute;
+    left: 48%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+input{
+    height: 60px;
+    width: 0px;
+    outline: none;
+    padding: 0 20px;
+    color: black;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: 1px solid tomato;
+    border-radius: 50px;
+    transition: all .7s ease;
+}
+
