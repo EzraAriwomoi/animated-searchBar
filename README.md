@@ -48,4 +48,4 @@ Ensure you include the CSS file in your project for the animations and styling t
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request on the [repository](#).
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](#) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
