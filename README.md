@@ -21,7 +21,7 @@ The Animated Searchbar is a sleek, responsive, and customizable search bar compo
 ## Installation
 To include the Animated Searchbar in your project, follow these steps:
 
-1. Download the latest release from the [repository](#).
+1. Download the latest release from the [repository](https://github.com/EzraAriwomoi/animated-searchBar/releases).
 2. Include the CSS file in your project.
 
 ```html
@@ -47,7 +47,7 @@ Ensure you include the CSS file in your project for the animations and styling t
 ```
 
 ## Contributing
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request on the [repository](#).
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request on the [repository](https://github.com/EzraAriwomoi/animated-searchBar).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
