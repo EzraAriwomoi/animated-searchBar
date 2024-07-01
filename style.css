@@ -23,3 +23,32 @@ input{
     transition: all .7s ease;
 }
 
+::placeholder{
+    color: grey;
+}
+
+.btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: tomato;
+    line-height: 80px;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.btn i{
+    font-size: 25px;
+    line-height: 80px;
+    color: white;
+    transition: all .7s ease;
+}
+.container:hover input{
+    width: 350px;
+}
+.container:hover i{
+    transform: rotate(-350deg);
+}
